@@ -6,16 +6,24 @@ editor: visual
 
 **Answer each of the following questions with *one sentence* including a brief explanation.**
 
-1. Finish the sentence with another student’s name: "If [Name of Student] doesn’t earn an A, then nobody should, because..." Explain your choice and your reasoning.
+1.  Finish the sentence with another student’s name: "If \[Name of Student\] doesn’t earn an A, then nobody should, because..." Explain your choice and your reasoning.
 
+If Scarlett Kwan oesn’t earn an A, then nobody should, because she was consistently in attendance, helped me and Ayile when we were confused about the presentation, and took amazing notes, I myself have some extranous circumstances that made me miss 3 classes overall, and all three times she sent me her in-class notes and made sure that I wasn't confused.
 
-2. What was the most difficult part of the class for you? List a general topic, a specific problem, a kind of work we did, etc. and explain why.
+2.  What was the most difficult part of the class for you? List a general topic, a specific problem, a kind of work we did, etc. and explain why.
 
+The most difficult part of the class was Lab 5, as it was fully structured differently then all the other labs and I was very confused having to guide myself through the lab without structure.
 
-3. What was the easiest part of the class for you? Explain why.
+3.  What was the easiest part of the class for you? Explain why.
 
+The easiest part of the class was the Check-ins before class. They were very helpful as they kept me accountable for doing the assigned reading before class, and getting me set up well for the lecture later that day.
 
-4. What part of the class surprised or interested you the most? Explain why.
+4.  What part of the class surprised or interested you the most? Explain why.
 
+The part of the class that surprised me the most was how much I loved the in-class activities. I learned more from those then any of the labs, and it was very helpful to be working on code not only with a knowledgeable partner but also with the help of Dr. T or the TA in close proximity for any questions.
 
-5. Give one piece of advice to a student just beginning a quarter of STAT 331 that will help them be successful in learning.
+5.  Give one piece of advice to a student just beginning a quarter of STAT 331 that will help them be successful in learning.
+
+Review the first couple days slides heavily. The structure is very different then any other class I've ever taken, and Dr. T has a very thoughtful and very clear way of how assignments/labs should turned in/ the format of them, so put in the early-on work to fully understand how to set everything up- it saves a lot of time in the long run.
+
+###### 
