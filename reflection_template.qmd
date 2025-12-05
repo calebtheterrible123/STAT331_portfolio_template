@@ -816,14 +816,14 @@ summary(species_mod)
 
 In the course, I was always revising my final product based on feedback. I redid labs and challenges before turning in to improve the work. At first, I did not always add in code comments or elaborate reflections, but eventually, I built the habit of explaining what and why I had done something so it illustrated my understanding and my growth. I often times did not fully correct my codes mistakes. Lately I have been adding comments to explain how I had changed something and how the new code was clearer, more efficient, or more correct. I have been growing a lot as a student in this course. This was helpful for making better connections between my feedback and future assignments, and allowed me to apply lessons more intentionally.
 
-## Extending My Thinking 
+## Extending My Thinking
 
 I engaged in extended thinking by doing work that was above and beyond the minimum requirement of assignment and worked to apply new tools and thinking. When faced with a viewing and analyzing challenge, I often took the challenging option even when it was not only more time-consuming, but also took some research. When I could not remember how to code a solution in R, I took it upon myself to look through the documentation, trying out functions in tidyverse, and writing or referencing what I used externally. I made an effort to write things I could understand and modify instead of simply copying someone's work. I also made it important to use only functions that made sense and ideally would be efficient. For instance, I tried to always use mutate() for transforming my data, piping (\|\>) for a readable workflow, and limit my data to only what was necessary for plotting and in relation to data being presented, using filter() and select(). I also tried to customize plots in ggplot2 and by taking into consideration communication through graphs and visualizations, such as customizing the color palette, and background, or using on of their new themes with ggplot2. Overall, I was not only trying to complete the work, but push my own development as a problem solver.
 
-## Peer Support and Collaboration 
+## Peer Support and Collaboration
 
 I grew tremendously. I started being far below sub par- one or two words at most, and have grown to have clear concise notes. I still have room to grow, as I believe that I should instead have added more context. I think that what I have written in my last couple reviews has been good, but I think I should add more context as everything I said is legitimate but would do better with some explanation and examples. I thoroughly read through the code when I was given it to review, and made a significant effort to give them good advice.
 
 Lab 4 peer Review
 
-![](images/Screenshot 2025-10-26 at 8.44.42 PM.png)
+![](images/Screenshot%202025-10-26%20at%208.44.42%20PM.png)
